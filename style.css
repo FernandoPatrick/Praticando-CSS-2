@@ -58,6 +58,7 @@ ul {
 li {
   display: flex;
   align-items: center;
+  cursor: pointer;
 }
 
 .active {
@@ -104,6 +105,7 @@ h1 {
   width: fit-content;
   justify-content: center;
   margin: 15px 30px;
+  cursor: pointer;
 }
 
 svg {
@@ -135,4 +137,6 @@ img {
   color: white;
   font-weight: bold;
   border-radius: 8px 0 0 0;
+  cursor: pointer;
+
 }
